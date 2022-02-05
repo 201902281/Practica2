@@ -13,4 +13,4 @@ En la último documento hay más información de interés sobre ACS, y también 
 
 Considero que la página es bastante intuitiva, pero que con CSS tendrá un mayor atractivo visual.
 
-Esto es una prueba
+Link para acceder a la página web: https://201902281.github.io/Practica2/PaginaPrincipal.html
